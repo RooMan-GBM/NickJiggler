@@ -1,4 +1,4 @@
-#convert PIMG.jpeg -thumbnail 134x92 THMB.jpeg
+
 
 for jp in images/*.*; do
 ##[ -e "$jp" ] || continue
