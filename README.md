@@ -1,2 +1,2 @@
 # NickJiggler
-a program for creating puzzles for Nickelodeon Jigsaw
+a program for creating puzzles for the Nickelodeon Jigsaw game.
